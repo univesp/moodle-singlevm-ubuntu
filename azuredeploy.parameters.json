@@ -18,7 +18,7 @@
       "value": "Standard_A2"
     },
     "moodleVersion": {
-      "value": "MOODLE_30_STABLE"
+      "value": "MOODLE_33_STABLE"
     },
     "installOfficePlugins": {
       "value": true
