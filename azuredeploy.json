@@ -57,7 +57,7 @@
     },
     "moodleVersion": {
       "type": "string",
-      "defaultValue": "MOODLE_30_STABLE",
+      "defaultValue": "MOODLE_33_STABLE",
       "allowedValues": [
         "MOODLE_33_STABLE",
         "MOODLE_32_STABLE",
